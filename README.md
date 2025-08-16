@@ -1,3 +1,5 @@
+![Project NANDA Banner](banner.png)
+
 # Agentic Web: Innovation Council for Project NANDA
 
 The **NANDA (Networked Agents and Decentralized AI)** project, which originated at MIT, is pioneering the foundational infrastructure for a true **“Internet of AI Agents”** — imagine billions of specialized AI agents collaborating across a decentralized architecture, performing discrete functions while communicating seamlessly, learning, earning, and transacting on our behalf.
