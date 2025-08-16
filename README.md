@@ -22,7 +22,7 @@ We are calling for **Council Leaders** and **Council Members** to help shape the
 - Represent the project at global events and get recognized as a **pioneer member**.  
 
 📌 **Apply Here**: [Application Form](https://forms.gle/Pc44vX1Nd9fXiWA99)  
-🌐 **Learn More**: [Project NANDA Website](https://projectnanda.org) | [MIT Media Lab NANDA](https://nanda.media.mit.edu/)
+🌐 **Learn More**: [Project NANDA Website](https://projectnanda.org) 
 
 ---
 
